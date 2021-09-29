@@ -3,7 +3,7 @@ Texto estilo Markdown no Discord</h1><br/>
 
 _Also available in [English](README.MD)_
 
-### **Markdown | Como usar o estilo .md no Discord**
+## **Markdown | Como usar o estilo .md no Discord**
 
 Quer dar um toque especial ao seu chat de texto do dia a dia? Você está com sorte! O Discord usa Markdown, um sistema simples de formatação de texto simples que o ajudará a ** fazer suas frases se destacarem **. Veja como fazer! Basta adicionar alguns caracteres antes e depois do texto desejado para alterá-lo! Vou te mostrar alguns exemplos ...
 
