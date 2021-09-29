@@ -3,11 +3,13 @@ Markdown Text in Discord</h1><br/>
 
 _Também disponível em [Português](README_pt-BR.md)_
 
-### **Markdown | How to use .md style in Discord**
+## **Markdown | How to use .md style in Discord**
 
 Want to inject some flavor into your everyday text chat? You're in luck! Discord uses Markdown, a simple plain text formatting system that'll help you **make your sentences stand out**. Here's how to do it! Just add a few characters before & after your desired text to change your text! I'll show you some examples...
 
-## Sweet Styles
+### Sweet Styles
+
+[![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)  ](#table-of-contents)
 
 *Italics*	\*italics* **or** \_italics\_
 
@@ -27,7 +29,9 @@ __Underline__	\_\_underline__
 
 Don't want to use markdown? You can slap a backslash in front of your statement, or put your message in a code block, and it'll escape the markdown formatting. You'll see those asterisks as you'd like! Just keep in mind, it doesn't work in messages with edits or underscores.
 
-## Block Quotes
+### Block Quotes
+
+[![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)  ](#table-of-contents)
 
 The syntax to use Block Quotes is > or >>> followed by a space.
 
@@ -39,7 +43,9 @@ The syntax to use Block Quotes is > or >>> followed by a space.
 
 ![multiline block quote](https://i.imgur.com/6vfzz5B.png)
 
-## Code Blocks
+### Code Blocks
+
+[![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)  ](#table-of-contents)
 
 Discord also supports code blocks as well.  You can make your own code blocks by wrapping your text in backticks (\`)
 
@@ -49,7 +55,9 @@ You can also use three backticks (\`\`\`) to create multiline code blocks, like 
 
 ![multiline code blocks](https://i.imgur.com/4QAF6uV.png)
 
-## Syntax Highlighting
+### Syntax Highlighting
+
+[![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)  ](#table-of-contents)
 
 If you really want to spruce up your code blocks, you can denote a specific language for **syntax highlighting**, by typing the name of the language you want the code block to expect right after the first three backticks beginning your code block. An example...
 
@@ -135,3 +143,4 @@ xml
 
 And you get the idea! Now you're a **Discord text markdown expert**. Get out there and highlight your statements!
 
+Credits: https://github.com/reconlx
