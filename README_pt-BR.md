@@ -7,7 +7,9 @@ _Also available in [English](README.MD)_
 
 Quer dar um toque especial ao seu chat de texto do dia a dia? Você está com sorte! O Discord usa Markdown, um sistema simples de formatação de texto simples que o ajudará a ** fazer suas frases se destacarem **. Veja como fazer! Basta adicionar alguns caracteres antes e depois do texto desejado para alterá-lo! Vou te mostrar alguns exemplos ...
 
-## Estilos Bonitos
+### Estilos Bonitos
+
+[![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)  ](#table-of-contents)
 
 *Itálico*	\*itálico* **or** \_itálico\_
 
@@ -38,7 +40,9 @@ A sintaxe para usar Block Quotes é > ou >>> seguida por um espaço.
 
 ![multiline block quote](https://i.imgur.com/6vfzz5B.png)
 
-## Blocos de Código
+### Blocos de Código
+
+[![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)  ](#table-of-contents)
 
 O Discord também suporta blocos de código. Você pode fazer seus próprios blocos de código envolvendo seu texto em crases(\`)
 
@@ -48,7 +52,9 @@ Você também pode usar três crases (\`\`\`) para criar blocos de código de v�
 
 ![blocos de código multilinha](https://i.imgur.com/4QAF6uV.png)
 
-## Realce de sintaxe
+### Realce de sintaxe
+
+[![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)  ](#table-of-contents)
 
 Se você realmente deseja enfeitar seus blocos de código, pode denotar um idioma específico para **destaque de sintaxe**, digitando o nome do idioma que você deseja que o bloco de código espere logo após os primeiros três crases que começam seu bloco de código. Um exemplo...
 ![syntax highlighting](https://i.imgur.com/SSzdgiw.png)
